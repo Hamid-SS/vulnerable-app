@@ -1,0 +1,7 @@
+{
+  "db_host": "localhost",
+  "db_user": "admin",
+  "db_password": "devpass123!",           // ❌ Hardcoded parol
+  "aws_access_key_id": "AKIAIOSFODNN7EXAMPLE",     // ❌ AWS açarı
+  "aws_secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+}
