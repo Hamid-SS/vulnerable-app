@@ -1,0 +1,9 @@
+{
+  "name": "vulnerable-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.0",
+    "lodash": "4.17.20",          // ❌ CVE-2021-23337 (High)
+    "sqlite3": "^5.1.0"
+  }
+}
